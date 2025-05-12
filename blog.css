@@ -1,0 +1,202 @@
+.Nav-Bar{
+    height: 100px;
+    width: auto;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    color: white; 
+}
+
+.logo-section{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+    font-size: 25px;
+}
+
+.logo-section img{
+    height: 95px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+.navbar{
+    margin-right: 0px;
+    font-size: 22px;
+    gap: 10px;
+    display: flex;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+
+.digital-marketing{
+    width: 1000px;
+    margin-top: 150px;
+    margin-left: 250px;
+    align-items: center;
+    padding-left: 150px;
+}
+
+.div-two{
+    display: flex;
+    gap: 20px;
+}
+
+.digital-img{
+    width: 300px;
+    height: 200px;
+    margin-top: 50px;
+}
+
+.digital-img img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.content{
+    height: 300px;
+    width: 400px;
+    overflow: scroll;
+}
+
+.content a{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}.content a:hover{
+    border-bottom: 2px solid black;
+}
+
+.seo{
+    margin-top: 100px;
+}
+
+.seo h1{
+    font-size: 30px;
+    margin-left: 700px;
+    border-bottom: 2px solid black;
+    width: 100px;
+}
+
+.seo-content{
+    width: 1000px;
+    height: 500px;
+    text-align: center;
+    margin-left: 250px;
+    overflow: scroll;
+    margin-top: 10px;
+}
+
+.seo-content h2{
+    font-size: 35px;
+}
+
+.seo-content img{
+    height: 320px;
+    width: 600px;
+    border-radius: 20px;
+}
+
+.seo-p{
+    width: 450px;
+    height: 300px;
+    margin-left: 280px;
+}
+
+.seo-p a{
+    color: black;
+}
+
+.content-writing{
+    width: auto;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding-left: 140px;
+    margin-top: 50px;
+    background-color: aliceblue;
+    border-radius: 100px;
+}
+
+.content-img{
+    width: 600px;
+    height: 400px;
+}
+
+.content-img img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.content-text{
+    width: 650px;
+    height: 400px;
+    overflow: scroll;
+}
+
+.content-text a{
+    margin-left: 500px;
+}
+
+.content-text a button{
+    width: 120px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    border-radius: 20px;
+}
+
+.coding{
+    width: auto;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding-left: 140px;
+    margin-top: 50px;
+    background-color: aliceblue;
+    border-radius: 100px;
+}
+
+.coding-img{
+    width: 600px;
+    height: 400px;
+}
+
+.coding-img img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.coding-text{
+    width: 650px;
+    height: 400px;
+    overflow: scroll;
+}
+
+.coding-text a{
+    margin-left: 520px;
+}
+
+.coding-text a button{
+    width: 120px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    border-radius: 20px;
+}
+

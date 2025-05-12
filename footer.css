@@ -1,0 +1,35 @@
+.footer{
+    background-color: rgb(125, 175, 175);
+    max-height: 1200px;
+}
+
+
+.two-parts{
+    display: flex;
+    gap: 400px;
+    text-align: center;
+    align-items: center;
+    /* border: 3px solid black; */
+    width: fit-content;
+    margin-left: 100px;
+    color: black;
+}
+
+.Author{
+    color: blue;
+}
+
+.Icon-section{
+    height: 50px;
+    width: 500px;
+    display: flex;
+    margin-left: 1100px;
+    gap: 10px;
+}
+
+.Icon-section{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    object-fit: cover;
+}
